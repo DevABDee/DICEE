@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #191A19;
+    color: #EEEDDE;
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 8.8rem;
+    margin: 3rem;
+    text-shadow: 1.5px 1.5px #940606;
+    
+}
+span {
+    font-size: 1.55rem;
+    font-family: 'Syne Mono', monospace;
+    margin: auto 66px;
+}
+img {
+    width: 12rem;
+    margin: 2rem;
+    margin-bottom: 4rem;
+}
+p {
+    font-family: 'Syne Mono', monospace;
+}
